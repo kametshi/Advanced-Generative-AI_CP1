@@ -1,0 +1,9 @@
+.venv
+venv
+.env
+.idea
+__pycharm__
+db/
+*.bin
+data/docs/
+*.pdf

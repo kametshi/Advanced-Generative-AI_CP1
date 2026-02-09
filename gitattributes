@@ -1,0 +1,2 @@
+docs/light_and_heavy_vehicle_technology.pdf filter=lfs diff=lfs merge=lfs -text
+data/docs/light_and_heavy_vehicle_technology.pdf filter=lfs diff=lfs merge=lfs -text
